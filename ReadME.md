@@ -21,8 +21,8 @@ npm install
 
 3. Start the development servers:
 
-Frontend: go to location of warehouse-form and enter command npm start
-Backend: go to location of warehouse-api and enter command node server.js
+- Frontend: go to location of warehouse-form enter command: npm install and  npm start
+- Backend: go to location of warehouse-api and enter command node server.js
 
 4. Open your web browser and visit http://localhost:3000 to access the frontend application.
 
